@@ -1,0 +1,9 @@
+.currency {
+    margin-right: 0;
+    font-weight: bolder;
+    display: inline;
+    align-self: center;
+    align-content: end;
+    color: green;
+    text-align: right;
+}

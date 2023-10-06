@@ -1,0 +1,8 @@
+.currency-select {
+    background-color: gold;
+    color: brown;
+    background-image: url(../downarrow.svg);
+}
+.currency-select option {
+    background-color: gold;
+}
